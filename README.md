@@ -14,8 +14,6 @@ Real-world cognitive benchmark of AIDEN Core under non-optimized conditions.
 AI Research • Cognitive Benchmarking • Conversational Systems
 </p>
 
-> Real-world cognitive benchmark of AIDEN Core under non-optimized conditions.
-
 ---
 
 ## Key Result
