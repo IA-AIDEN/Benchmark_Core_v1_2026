@@ -130,9 +130,6 @@ P7 ██████████ 5
 <p align="center">
   <img src="assets/benchmark-v1-chart-api-score.png" width="100%">
 </p>
----
-
-## Technical Observations
 
 ## Technical Observations
 
