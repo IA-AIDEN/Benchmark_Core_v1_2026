@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/aiden_logo.png" width="180">
+  <img src="assets/aiden_logo.png" width="180">
 </p>
 
 <h1 align="center">
@@ -75,7 +75,7 @@ This methodology prioritizes **authentic system behavior over artificial optimiz
 ## 📊 Benchmark Visualization
 
 <p align="center">
-  <img src="assets/images/benchmark_v1_chart.png" width="100%">
+  <img src="assets/benchmark_v1_chart.png" width="100%">
 </p>
 
 ### Key Metrics
@@ -100,7 +100,7 @@ P6 ████████░░ 4
 P7 ██████████ 5
 
 <p align="center">
-  <img src="assets/images/benchmark_v1_chart_api_score.png" width="100%">
+  <img src="assets/benchmark_v1_chart_api_score.png" width="100%">
 </p>
 ---
 
@@ -172,7 +172,7 @@ The system demonstrates:
 - Stable multi-query performance
 
 <p align="center">
-  <img src="assets/images/benchmark_v1_chart_api_score.png" width="100%">
+  <img src="assets/benchmark_v1_chart_api_score.png" width="100%">
 </p>
 
 This benchmark validates AIDEN as a **functional and scalable AI system**, ready for:
