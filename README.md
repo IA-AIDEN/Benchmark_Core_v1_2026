@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-AIDEN Benchmark v1.0 — Cognitive Evaluation
+AIDEN Benchmark v1.0 — Cognitive Evaluation 2026
 </h1>
 
 <p align="center">
@@ -13,8 +13,6 @@ Real-world cognitive benchmark of AIDEN Core under non-optimized conditions.
 <p align="center">
 AI Research • Cognitive Benchmarking • Conversational Systems
 </p>
-
-# AIDEN Benchmark v1.0 — Cognitive Evaluation 2026
 
 > Real-world cognitive benchmark of AIDEN Core under non-optimized conditions.
 
