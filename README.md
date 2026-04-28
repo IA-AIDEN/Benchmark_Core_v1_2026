@@ -238,6 +238,7 @@ AIDEN is not a conceptual prototype.
 
 It is a **validated functional system** demonstrating competitive cognitive performance under real conditions.
 
+---
 
 <p align="center">
   <b>© 2026 JMC Studio Creativo — AIDEN IA Latina from Guayaquil, Ecuador.</b>
