@@ -100,7 +100,7 @@ P6 ████████░░ 4
 P7 ██████████ 5
 
 <p align="center">
-  <img src="assets/benchmark_v1_chart_api_score.png" width="100%">
+  <img src="assets/assets/benchmark-v1-chart-api-score.png" width="100%">
 </p>
 ---
 
