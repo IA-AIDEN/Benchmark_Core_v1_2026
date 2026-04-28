@@ -1,3 +1,19 @@
+<p align="center">
+  <img src="assets/images/aiden_logo.png" width="180">
+</p>
+
+<h1 align="center">
+AIDEN Benchmark v1.0 — Cognitive Evaluation
+</h1>
+
+<p align="center">
+Real-world cognitive benchmark of AIDEN Core under non-optimized conditions.
+</p>
+
+<p align="center">
+AI Research • Cognitive Benchmarking • Conversational Systems
+</p>
+
 # AIDEN Benchmark v1.0 — Cognitive Evaluation 2026
 
 > Real-world cognitive benchmark of AIDEN Core under non-optimized conditions.
@@ -17,8 +33,6 @@
 - Manual testing
 - Multi-query consistency
 - Latency measured per interaction
-
-# AIDEN Benchmark v1.0 — Cognitive Evaluation 2026
 
 ## Overview
 
@@ -60,6 +74,12 @@ This methodology prioritizes **authentic system behavior over artificial optimiz
 
 ## Results Summary
 
+## 📊 Benchmark Visualization
+
+<p align="center">
+  <img src="assets/images/benchmark_v1_chart.png" width="100%">
+</p>
+
 ### Key Metrics
 
 - **Average Score:** 4.43 / 5  
@@ -81,8 +101,9 @@ P5 ██████████ 5
 P6 ████████░░ 4
 P7 ██████████ 5
 
-
-
+<p align="center">
+  <img src="assets/images/benchmark_v1_chart_api_score.png" width="100%">
+</p>
 ---
 
 ## Technical Observations
@@ -151,6 +172,10 @@ The system demonstrates:
 - Robust reasoning capabilities
 - High-quality explanatory output
 - Stable multi-query performance
+
+<p align="center">
+  <img src="assets/images/benchmark_v1_chart_api_score.png" width="100%">
+</p>
 
 This benchmark validates AIDEN as a **functional and scalable AI system**, ready for:
 
