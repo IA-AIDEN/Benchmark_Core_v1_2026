@@ -182,10 +182,6 @@ The system demonstrates:
 
 This benchmark validates AIDEN as a **functional and scalable AI system**, ready for:
 
-- Voice evaluation
-- Technical benchmarking
-- Real-world application scenarios
-
 ---
 
 ## Integrity Layer (Advanced Validation)
@@ -207,3 +203,7 @@ A hash (e.g., SHA-256) can be generated from raw outputs to ensure:
 AIDEN is not a conceptual prototype.
 
 It is a **validated functional system** demonstrating competitive cognitive performance under real conditions.
+
+<p align="center">
+  <b>© 2026 JMC Studio Creativo — AIDEN IA Latina desde Guayaquil, Ecuador.</b>
+</p>
