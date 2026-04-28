@@ -134,30 +134,67 @@ P7 ██████████ 5
 
 ## Technical Observations
 
-### Latency Behavior
-- Simple queries → higher latency
-- Complex queries → lower latency
+<table align="center" width="100%">
+<tr>
+<td>
 
-**Interpretation:**
-- Longer token generation in simple prompts
-- Stronger semantic anchoring in complex queries
+### ⚡ Latency Behavior
 
----
+| Observation | Result |
+|---|---|
+| Simple queries | Higher latency |
+| Complex queries | Lower latency |
 
-### System Stability
-- Stable across multiple queries
-- No degradation after session reset
-- Consistent response structure
+### Interpretation
 
----
+| Analysis | Explanation |
+|---|---|
+| Token Generation | Longer generation in simple prompts |
+| Semantic Anchoring | Stronger anchoring in complex prompts |
 
-### Detected Imperfections (Important for Validity)
-- Bullet formatting inconsistencies
-- Minor conceptual inaccuracies (isolated cases)
-- Structural repetition patterns
+</td>
+</tr>
+</table>
 
-**Note:**  
-These are indicators of **real execution**, not synthetic benchmarking.
+<br>
+
+<table align="center" width="100%">
+<tr>
+<td>
+
+### 🛡️ System Stability
+
+| Stability Check | Result |
+|---|---|
+| Multi-query consistency | Stable |
+| Session reset behavior | No degradation detected |
+| Structural consistency | Maintained across responses |
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table align="center" width="100%">
+<tr>
+<td>
+
+### ⚠️ Detected Imperfections (Validity Indicators)
+
+| Observation | Status |
+|---|---|
+| Bullet formatting inconsistencies | Minor |
+| Conceptual inaccuracies | Isolated cases |
+| Structural repetition patterns | Present |
+
+### Note
+
+> These characteristics indicate **real execution behavior**, not synthetic benchmarking.
+
+</td>
+</tr>
+</table>
 
 ---
 
