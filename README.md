@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/aiden_logo.png" width="180">
+  <img src="assets/aiden_logo.png" width="80">
 </p>
 
 <h1 align="center">
