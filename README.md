@@ -11,7 +11,13 @@ Real-world cognitive benchmark of AIDEN Core under non-optimized conditions.
 </p>
 
 <p align="center">
-AI Research • Cognitive Benchmarking • Conversational Systems
+
+<img src="https://img.shields.io/badge/AI%20Research-0F172A?style=for-the-badge&logo=openai&logoColor=22D3EE">
+
+<img src="https://img.shields.io/badge/Cognitive%20Benchmarking-1E3A8A?style=for-the-badge&logo=databricks&logoColor=white">
+
+<img src="https://img.shields.io/badge/Conversational%20Systems-0EA5E9?style=for-the-badge&logo=googlemessages&logoColor=white">
+
 </p>
 
 ---
