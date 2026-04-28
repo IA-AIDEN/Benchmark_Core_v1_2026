@@ -90,8 +90,8 @@ This methodology prioritizes **authentic system behavior over artificial optimiz
 
 ## Score Distribution
 
-```text
 P1 ████████░░ 4
+
 P2 ██████████ 5
 P3 ████████░░ 4
 P4 ████████░░ 4
