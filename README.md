@@ -16,7 +16,7 @@ Real-world cognitive benchmark of AIDEN Core under non-optimized conditions.
 
 <img src="https://img.shields.io/badge/Cognitive%20Benchmarking-1E3A8A?style=for-the-badge&logo=databricks&logoColor=white">
 
-<img src="https://img.shields.io/badge/Conversational%20Systems-0EA5E9?style=for-the-badge&logo=googlemessages&logoColor=white">
+<img src="https://img.shields.io/badge/Conversational%20Systems-00aae4?style=for-the-badge&logo=googlemessages&logoColor=white">
 
 </p>
 
