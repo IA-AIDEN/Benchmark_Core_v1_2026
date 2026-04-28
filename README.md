@@ -51,22 +51,47 @@ This methodology prioritizes **authentic system behavior over artificial optimiz
 
 ## Methodology
 
-### Execution Model
-- Manual testing (no automation)
-- Single continuous session
-- Real production environment
-- No prompt engineering optimization
+<table align="center">
+<tr>
+<td width="33%" valign="top">
 
-### Evaluation Dimensions
-- Comprehension
-- Reasoning
-- Explanation clarity
-- Applied knowledge
+### ⚙️ Execution Model
 
-### Data Captured
-- Response content
-- Latency (seconds)
-- Qualitative score (1–5 scale)
+| Parameter | Details |
+|---|---|
+| Testing Type | Manual testing |
+| Session Style | Single continuous session |
+| Environment | Real production |
+| Prompt Optimization | None |
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🧠 Evaluation Dimensions
+
+| Dimension | Evaluated |
+|---|---|
+| Comprehension | ✔ |
+| Reasoning | ✔ |
+| Explanation Clarity | ✔ |
+| Applied Knowledge | ✔ |
+
+</td>
+
+<td width="33%" valign="top">
+
+### 📊 Data Captured
+
+| Metric | Description |
+|---|---|
+| Response Content | Full outputs |
+| Latency | Measured in seconds |
+| Qualitative Score | Scale from 1–5 |
+
+</td>
+</tr>
+</table>
 
 ---
 
