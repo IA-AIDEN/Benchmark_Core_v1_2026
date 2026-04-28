@@ -97,7 +97,6 @@ This methodology prioritizes **authentic system behavior over artificial optimiz
 
 ---
 
-## Results Summary
 
 ## 📊 Benchmark Visualization
 
