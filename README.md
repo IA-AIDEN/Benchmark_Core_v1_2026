@@ -93,10 +93,15 @@ This methodology prioritizes **authentic system behavior over artificial optimiz
 P1 ████████░░ 4
 
 P2 ██████████ 5
+
 P3 ████████░░ 4
+
 P4 ████████░░ 4
+
 P5 ██████████ 5
+
 P6 ████████░░ 4
+
 P7 ██████████ 5
 
 <p align="center">
