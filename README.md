@@ -138,19 +138,51 @@ P7 ██████████ 5
 <tr>
 <td>
 
-### ⚡ Latency Behavior
+## Technical Observations
 
-| Observation | Result |
-|---|---|
-| Simple queries | Higher latency |
-| Complex queries | Lower latency |
+<table width="100%">
+<tr>
+<td width="100%">
 
-### Interpretation
+# ⚡ Latency Behavior
 
-| Analysis | Explanation |
-|---|---|
-| Token Generation | Longer generation in simple prompts |
-| Semantic Anchoring | Stronger anchoring in complex prompts |
+<table width="100%">
+<tr>
+<th align="left">Observation</th>
+<th align="left">Result</th>
+</tr>
+
+<tr>
+<td width="50%">Simple queries</td>
+<td width="50%">Higher latency</td>
+</tr>
+
+<tr>
+<td>Complex queries</td>
+<td>Lower latency</td>
+</tr>
+</table>
+
+<br>
+
+# Interpretation
+
+<table width="100%">
+<tr>
+<th align="left">Analysis</th>
+<th align="left">Explanation</th>
+</tr>
+
+<tr>
+<td width="50%">Token Generation</td>
+<td width="50%">Longer generation in simple prompts</td>
+</tr>
+
+<tr>
+<td>Semantic Anchoring</td>
+<td>Stronger anchoring in complex prompts</td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -158,17 +190,33 @@ P7 ██████████ 5
 
 <br>
 
-<table align="center" width="100%">
+<table width="100%">
 <tr>
-<td>
+<td width="100%">
 
-### 🛡️ System Stability
+# 🛡️ System Stability
 
-| Stability Check | Result |
-|---|---|
-| Multi-query consistency | Stable |
-| Session reset behavior | No degradation detected |
-| Structural consistency | Maintained across responses |
+<table width="100%">
+<tr>
+<th align="left">Stability Check</th>
+<th align="left">Result</th>
+</tr>
+
+<tr>
+<td width="50%">Multi-query consistency</td>
+<td width="50%">Stable</td>
+</tr>
+
+<tr>
+<td>Session reset behavior</td>
+<td>No degradation detected</td>
+</tr>
+
+<tr>
+<td>Structural consistency</td>
+<td>Maintained across responses</td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -176,25 +224,43 @@ P7 ██████████ 5
 
 <br>
 
-<table align="center" width="100%">
+<table width="100%">
 <tr>
-<td>
+<td width="100%">
 
-### ⚠️ Detected Imperfections (Validity Indicators)
+# ⚠️ Detected Imperfections (Validity Indicators)
 
-| Observation | Status |
-|---|---|
-| Bullet formatting inconsistencies | Minor |
-| Conceptual inaccuracies | Isolated cases |
-| Structural repetition patterns | Present |
+<table width="100%">
+<tr>
+<th align="left">Observation</th>
+<th align="left">Status</th>
+</tr>
 
-### Note
+<tr>
+<td width="50%">Bullet formatting inconsistencies</td>
+<td width="50%">Minor</td>
+</tr>
+
+<tr>
+<td>Conceptual inaccuracies</td>
+<td>Isolated cases</td>
+</tr>
+
+<tr>
+<td>Structural repetition patterns</td>
+<td>Present</td>
+</tr>
+</table>
+
+<br>
 
 > These characteristics indicate **real execution behavior**, not synthetic benchmarking.
 
 </td>
 </tr>
 </table>
+
+---
 
 ---
 
