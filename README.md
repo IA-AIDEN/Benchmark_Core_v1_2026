@@ -214,7 +214,7 @@ The system demonstrates:
   <img src="assets/benchmark_v1_chart_comparative.png" width="100%">
 </p>
 
-This benchmark validates AIDEN as a **functional and scalable AI system**, ready for:
+This benchmark validates AIDEN as a **functional and scalable AI system.**
 
 ---
 
