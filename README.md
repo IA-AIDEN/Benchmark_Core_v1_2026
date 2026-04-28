@@ -134,131 +134,40 @@ P7 ██████████ 5
 
 ## Technical Observations
 
-<table align="center" width="100%">
-<tr>
-<td>
-
-<table width="100%">
-<tr>
-<td width="100%">
-
-# ⚡ Latency Behavior
-
-<table width="300%">
-<tr>
-<th align="left">Observation</th>
-<th align="left">Result</th>
-</tr>
-
-<tr>
-<td width="50%">Simple queries</td>
-<td width="50%">Higher latency</td>
-</tr>
-
-<tr>
-<td>Complex queries</td>
-<td>Lower latency</td>
-</tr>
-</table>
-
-<br>
-
-# Interpretation
-
-<table width="100%">
-<tr>
-<th align="left">Analysis</th>
-<th align="left">Explanation</th>
-</tr>
-
-<tr>
-<td width="50%">Token Generation</td>
-<td width="50%">Longer generation in simple prompts</td>
-</tr>
-
-<tr>
-<td>Semantic Anchoring</td>
-<td>Stronger anchoring in complex prompts</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table width="100%">
-<tr>
-<td width="100%">
-
-# 🛡️ System Stability
-
-<table width="100%">
-<tr>
-<th align="left">Stability Check</th>
-<th align="left">Result</th>
-</tr>
-
-<tr>
-<td width="50%">Multi-query consistency</td>
-<td width="50%">Stable</td>
-</tr>
-
-<tr>
-<td>Session reset behavior</td>
-<td>No degradation detected</td>
-</tr>
-
-<tr>
-<td>Structural consistency</td>
-<td>Maintained across responses</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table width="100%">
-<tr>
-<td width="100%">
-
-# ⚠️ Detected Imperfections (Validity Indicators)
-
-<table width="100%">
-<tr>
-<th align="left">Observation</th>
-<th align="left">Status</th>
-</tr>
-
-<tr>
-<td width="50%">Bullet formatting inconsistencies</td>
-<td width="50%">Minor</td>
-</tr>
-
-<tr>
-<td>Conceptual inaccuracies</td>
-<td>Isolated cases</td>
-</tr>
-
-<tr>
-<td>Structural repetition patterns</td>
-<td>Present</td>
-</tr>
-</table>
-
-<br>
-
-> These characteristics indicate **real execution behavior**, not synthetic benchmarking.
-
-</td>
-</tr>
-</table>
+## Technical Observations
 
 ---
+
+### ⚡ Latency Behavior
+
+#### Observations
+- **Simple queries →** Higher latency detected  
+- **Complex queries →** Lower latency detected  
+
+#### Interpretation
+- **Token Generation →** Longer generation observed in simpler prompts  
+- **Semantic Anchoring →** Stronger contextual anchoring in complex prompts  
+
+---
+
+### 🛡️ System Stability
+
+#### Stability Analysis
+- ✔ Stable across multiple sequential queries  
+- ✔ No degradation detected after session reset  
+- ✔ Consistent structural formatting maintained  
+
+---
+
+### ⚠️ Detected Imperfections (Validity Indicators)
+
+#### Observed Issues
+- Minor bullet formatting inconsistencies  
+- Isolated conceptual inaccuracies  
+- Structural repetition patterns detected  
+
+#### Important Note
+> These characteristics indicate **real execution behavior**, not synthetic benchmarking.
 
 ---
 
