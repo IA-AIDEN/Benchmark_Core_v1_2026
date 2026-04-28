@@ -138,15 +138,13 @@ P7 ██████████ 5
 <tr>
 <td>
 
-## Technical Observations
-
 <table width="100%">
 <tr>
 <td width="100%">
 
 # ⚡ Latency Behavior
 
-<table width="100%">
+<table width="300%">
 <tr>
 <th align="left">Observation</th>
 <th align="left">Result</th>
