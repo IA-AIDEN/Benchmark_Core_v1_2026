@@ -241,5 +241,5 @@ It is a **validated functional system** demonstrating competitive cognitive perf
 ---
 
 <p align="center">
-  <b>© 2026 JMC Studio Creativo — AIDEN IA Latina from Guayaquil, Ecuador.</b>
+  <b>© 2026 JMC Studio Creativo — AIDEN AI Latina from Guayaquil, Ecuador.</b>
 </p>
