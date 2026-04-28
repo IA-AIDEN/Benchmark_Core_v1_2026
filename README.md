@@ -55,9 +55,10 @@ This methodology prioritizes **authentic system behavior over artificial optimiz
 
 ## Methodology
 
-<table align="center">
+<table width="100%">
 <tr>
-<td width="33%" valign="top">
+
+<td width="50%" valign="top">
 
 ### ⚙️ Execution Model
 
@@ -70,7 +71,7 @@ This methodology prioritizes **authentic system behavior over artificial optimiz
 
 </td>
 
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🧠 Evaluation Dimensions
 
@@ -83,19 +84,16 @@ This methodology prioritizes **authentic system behavior over artificial optimiz
 
 </td>
 
-<td width="33%" valign="top">
+</tr>
+</table>
+
+<br>
 
 ### 📊 Data Captured
 
-| Metric | Description |
-|---|---|
-| Response Content | Full outputs |
-| Latency | Measured in seconds |
-| Qualitative Score | Scale from 1–5 |
-
-</td>
-</tr>
-</table>
+- **Response Content →** Full generated outputs recorded  
+- **Latency →** Measured in seconds for each interaction  
+- **Qualitative Score →** Human evaluation using a 1–5 scale  
 
 ---
 
