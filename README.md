@@ -100,7 +100,7 @@ P6 ████████░░ 4
 P7 ██████████ 5
 
 <p align="center">
-  <img src="assets/assets/benchmark-v1-chart-api-score.png" width="100%">
+  <img src="assets/benchmark-v1-chart-api-score.png" width="100%">
 </p>
 ---
 
@@ -172,7 +172,7 @@ The system demonstrates:
 - Stable multi-query performance
 
 <p align="center">
-  <img src="assets/assets/benchmark_v1_chart_comparative.png" width="100%">
+  <img src="assets/benchmark_v1_chart_comparative.png" width="100%">
 </p>
 
 This benchmark validates AIDEN as a **functional and scalable AI system**, ready for:
