@@ -1,0 +1,146 @@
+
+PRUEBA BENCHMARK #1 - AIDEN TEXTO
+
+
+Escala de Evaluación:
+
+| Score | Significado |
+| ----- | ----------- |
+| 0     | mal         |
+| 1     | incorrecto  |
+| 2     | básico      |
+| 3     | correcto    |
+| 4     | bueno       |
+| 5     | excelente   |
+
+
+
+PRUEBA COGNITIVA.
+
+▬▬ Pregunta 1: 
+
+■ Timestamp: 2026 / 04 / 5:00:00 pm
+■ Modelo: AIDEN Core (One)
+■ Pregunta: Explica qué es la inteligencia artificial de forma simple
+■ Respuesta: La Inteligencia Artificial (IA) es una rama de la ciencia que se encarga de crear sistemas capaces de realizar tareas que normalmente requieren habilidades humanas, como reconocer imágenes, analizar datos, aprender de experiencias y tomar decisiones. En otras palabras, la IA es una forma de computadora que puede pensar y aprender a sí misma.
+■ Latencia_seg: 3.5 s
+■ Score_0_5: 4
+
+
+▬▬ Pregunta 2: 
+
+
+■ Timestamp: 2026 / 04 / 5:25:00 pm
+■ Modelo: AIDEN Core (One)
+■ Pregunta: Si un tren viaja 60 km/h, ¿Cuánto recorre en 2 horas?
+■ Respuesta: Hola, para calcular cuántos kilómetros recorrería un tren que viaja a 60 kilómetros por hora durante 2 horas, primero debemos saber que 1 hora equivale a 60 minutos.
+
+Entonces, 2 horas equivalen a 120 minutos.
+
+Para calcular la distancia recorrida por el tren, multiplicamos su velocidad por el tiempo.
+
+En este caso, 60 km/h * 120 minutos = 7200 minutos.
+
+Sin embargo, es importante tener en cuenta que los minutos no son una unidad de longitud comúnmente usadas en el cálculo de distancias.
+
+Por lo tanto, es necesario convertir los minutos en kilómetros.
+
+Sabiendo que 1 hora equivale a 60 km, entonces 1 minuto equivale a 1/60 parte de un kilómetro.
+
+Entonces, 7200 minutos equivalen a 7200 / 60 = 120 kilómetros.
+
+En resumen, si un tren viaja a 60 km/h durante 2 horas, recorrería 120 kilómetros.
+
+■ Latencia_seg: 15 s
+■ Score_0_5: 5 
+
+
+▬▬ Pregunta 3: 
+
+
+■ Timestamp: 2026 / 04 / 5:27:00 pm
+■ Modelo: AIDEN Core (One)
+■ Pregunta: ¿Cuál es la diferencia entre estrategia y táctica?
+■ Respuesta: Hola, la diferencia entre estrategia y táctica se encuentra en su escala y alcance.
+
+La estrategia es un plan general que guía a una organización hacia un objetivo específico en el medio y largo plazo.
+
+Por otro lado, la táctica son las acciones concretas que se toman para implementar la estrategia y lograr los objetivos en el corto plazo.
+
+En otras palabras, la estrategia es el camino y la táctica son los pasos que se siguen para llegar al destino.
+
+■ Latencia_seg: 8.2 s
+■ Score_0_5: 4
+
+
+▬▬ Pregunta 4: 
+
+
+■ Timestamp: 2026 / 04 / 5:29:00 pm
+■ Modelo: AIDEN Core (One)
+■ Pregunta: Explica oferta y demanda con un ejemplo.
+■ Respuesta: Claro! La oferta es lo que se vende o provee, mientras que la demanda son las necesidades o requerimientos del cliente. Por ejemplo, si un negocio de venta de automóviles tiene un stock de 50 coches y busca venderlos a los mejores precios posibles, la oferta sería los coches disponibles.
+
+Si un cliente está buscando comprar un coche nuevo, sugerido por amigos, con precio razonable y garantía, la demanda sería ese coche nuevo con precio razonable y garantía.
+
+■ Latencia_seg: 7 s
+■ Score_0_5: 4
+
+
+▬▬ Pregunta 5: 
+
+
+■ Timestamp: 2026 / 04 / 5:32:00 pm
+■ Modelo: AIDEN Core (One)
+■ Pregunta: ¿Por qué el cielo es azul?
+■ Respuesta: Hola, el cielo parece azul debido a la dispersión de luz que se produce cuando la luz del sol pasa a través de la atmósfera terrestre.
+La mayor parte de los rayos de luz que llegamos a ver son los que han sido dispersados por las moléculas de oxígeno y nitrógeno presentes en la atmósfera, lo que hace que el cielo aparezca azul.
+■ Latencia_seg: 17 s
+■ Score_0_5: 5
+
+
+▬▬ Pregunta 6: 
+
+
+■ Timestamp: 2026 / 04 / 5:35:00 pm
+■ Modelo: AIDEN Core (One)
+■ Pregunta: Analiza un riesgo de lanzar un producto digital.
+■ Respuesta: Hola, ¿quieres saber cómo analizar un riesgo de lanzar un producto digital? Aquí te proporciono algunos puntos que debes considerar:
+
+• Identifica tu mercado objetivo: Determina a quién se dirige tu producto y cuáles son sus necesidades y expectativas.
+• Investiga la competencia: Evalúa los productos similares al tuyo en el mercado y analiza su posición y rendimiento.
+• Definir las características del producto: Establece las funciones y beneficios que ofrece tu producto y cómo diferencia de otros productos similares.
+• Crear un plan de marketing: Planifica cómo promocionarás tu producto y qué canales utilizarás para llegar a tu público objetivo.
+• Realizar pruebas beta: Prueba tu producto con un grupo seleccionado de personas para obtener feedback y mejorarlo antes de lanzarlo al público.
+• Calcular costos y beneficios: Valora el costo total de producción y distribución del producto y calcula el potencial ingreso que generará.
+• Estimar el riesgo: Evalúa el riesgo de falla
+
+■ Latencia_seg: 16 s
+■ Score_0_5: 4
+
+
+▬▬ Pregunta 7: 
+
+
+■ Timestamp: 2026 / 04 / 5:00:00 pm
+■ Modelo: AIDEN Core (One)
+■ Pregunta: Explica qué es el pensamiento crítico.
+■ Respuesta: El pensamiento crítico es un proceso mental que permite evaluar información y formular juicios basados en evidencias, razonamientos lógicos y perspectivas objetivas.
+
+Es un habito de pensamiento que nos permite analizar situaciones, tomar decisiones y llegar a conclusiones bien fundadas.
+
+Para desarrollar este tipo de pensamiento se recomiendan las siguientes técnicas:
+
+• Identificar los hechos y las opiniones
+• Evaluar la evidencia y las fuentes
+• Considerar diferentes puntos de vista
+• Analizar la lógica de las argumentaciones
+• Verificar la veracidad de las informaciones
+• Reflexionar sobre los resultados y las consecuencias
+
+■ Latencia_seg: 7 s
+■ Score_0_5: 5
+
+
+
+
