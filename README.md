@@ -218,25 +218,38 @@ This benchmark validates AIDEN as a **functional and scalable AI system.**
 
 ---
 
-## Integrity Layer (Advanced Validation)
+# 🔒 Integrity Layer (Advanced Validation)
 
-### Visual Evidence
-- Screenshot-based validation 
+## 📸 Visual Evidence
 
-### Cryptographic Integrity 
+Benchmark execution was validated using real screenshot captures from live testing sessions.
 
-A hash (e.g., SHA-256) can be generated from raw outputs to ensure:
+### Evidence Access
 
-- Data immutability
-- Post-execution integrity
+- 📂 [View Screenshots](evidence/screenshots/)
+- 📄 [Raw Benchmark Outputs](evidence/raw_outputs/benchmark_v1_raw.txt)
 
 ---
 
-## Final Statement
+## 🔐 Cryptographic Integrity
 
-AIDEN is not a conceptual prototype.
+A real SHA-256 cryptographic hash was generated from the raw benchmark outputs to guarantee:
 
-It is a **validated functional system** demonstrating competitive cognitive performance under real conditions.
+- Data immutability  
+- Post-execution integrity  
+- No post-editing validation  
+
+### Hash Verification
+
+- 🔑 [View SHA-256 Hash](evidence/hashes/sha256.txt)
+
+### Validation Method
+
+```bash
+SHA-256(raw_outputs) → immutable verification fingerprint
+```
+
+This process provides an additional integrity layer commonly used in professional benchmarking, cybersecurity, and digital evidence verification workflows.
 
 ---
 
