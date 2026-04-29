@@ -226,8 +226,8 @@ Benchmark execution was validated using real screenshot captures from live testi
 
 ### Evidence Access
 
-- 📂 [View Screenshots](evidence/screenshots/)
-- 📄 [Raw Benchmark Outputs](evidence/raw_outputs/benchmark_v1_raw.txt)
+- 📂 [View Screenshots](evidence/)
+- 📄 [Raw Benchmark Outputs](evidence/benchmark_v1_raw.txt)
 
 ---
 
@@ -241,7 +241,7 @@ A real SHA-256 cryptographic hash was generated from the raw benchmark outputs t
 
 ### Hash Verification
 
-- 🔑 [View SHA-256 Hash](evidence/hashes/sha256.txt)
+- 🔑 [View SHA-256 Hash](evidence/sha256.txt)
 
 ### Validation Method
 
