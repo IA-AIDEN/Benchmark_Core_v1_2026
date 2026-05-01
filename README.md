@@ -32,6 +32,7 @@ The objective of this evaluation is not only technical validation, but also tran
 
 The results confirm that AIDEN Core operates as a functional conversational AI system with stable reasoning behavior, coherent language generation, and scalable architectural potential.
 
+
 ## Key Result
 
 **API-100 Score: 88.6 / 100**  
