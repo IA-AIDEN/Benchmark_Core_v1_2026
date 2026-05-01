@@ -22,6 +22,16 @@ Real-world cognitive benchmark of AIDEN Core under non-optimized conditions.
 
 ---
 
+AIDEN Benchmark Core v1.0 is the first official cognitive evaluation conducted on AIDEN Core under real-world execution conditions.
+
+This benchmark was designed to measure the foundational intelligence capabilities of the system, including reasoning quality, response consistency, latency behavior, structural stability, and explanatory performance across multiple conversational scenarios.
+
+Unlike synthetic or laboratory-style evaluations, all tests were executed manually in a continuous production session without prompt optimization, allowing the benchmark to capture authentic system behavior under realistic conditions.
+
+The objective of this evaluation is not only technical validation, but also transparency: providing researchers, developers, investors, and non-technical audiences with a clear view of AIDEN’s current cognitive capabilities, operational maturity, and real execution performance.
+
+The results confirm that AIDEN Core operates as a functional conversational AI system with stable reasoning behavior, coherent language generation, and scalable architectural potential.
+
 ## Key Result
 
 **API-100 Score: 88.6 / 100**  
